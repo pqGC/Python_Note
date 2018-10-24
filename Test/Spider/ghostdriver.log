@@ -1,0 +1,12 @@
+[INFO  - 2018-10-19T09:33:54.385Z] GhostDriver - Main - running on port 11091
+[INFO  - 2018-10-19T09:33:58.832Z] Session [1b1377b0-d382-11e8-b28c-83e8ef9c0027] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-19T09:33:58.832Z] Session [1b1377b0-d382-11e8-b28c-83e8ef9c0027] - page.customHeaders:  - {}
+[INFO  - 2018-10-19T09:33:58.832Z] Session [1b1377b0-d382-11e8-b28c-83e8ef9c0027] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-19T09:33:58.832Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1b1377b0-d382-11e8-b28c-83e8ef9c0027
+[ERROR - 2018-10-19T09:34:02.922Z] Session [1b1377b0-d382-11e8-b28c-83e8ef9c0027] - page.onError - msg: TypeError: undefined is not an object (evaluating 'obj.fg')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-19T09:34:02.923Z] Session [1b1377b0-d382-11e8-b28c-83e8ef9c0027] - page.onError - stack:
+  addli (https://www.912727.com/jscss/qjbl.js:172)
+
+  phantomjs://platform/console++.js:263 in error
